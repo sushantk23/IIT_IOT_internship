@@ -1,0 +1,11 @@
+text  = " Python Programming "
+print("original:",text)
+print("lower:",text.lower())
+print("upper:",text.upper())
+print("strip:",text.strip())
+print("reversed:","".join(reversed(text)))
+print("replace:",text.replace("Python","java"))
+print("find:",text.find("Programming"))
+print("count of o:",text.count("o"))
+print("starts with python:",text.strip().startswith("Python"))
+print("ends with programming",text.strip().endswith("programming"))
