@@ -1,7 +1,0 @@
-import math
-def area_of_circle():
-    number = (float(input("enter the area of cirlce:")))
-    area = pi *number ** 2
-    print("area of circle is:",math.pi)
-    area_of_circle.pi = math.pi
-    area_of_circle()
