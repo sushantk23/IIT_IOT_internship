@@ -20,7 +20,6 @@ while True:
 
     elif choice == 3:
         print(text[::-1])
-
     elif choice == 4:
         step = int(input("Enter step value: "))
         print(text[::step])

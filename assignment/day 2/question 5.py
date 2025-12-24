@@ -9,3 +9,4 @@ def print_binary(num):
     print("Binary:", binary)
 n = int(input("Enter a number: "))
 print_binary(n)
+
